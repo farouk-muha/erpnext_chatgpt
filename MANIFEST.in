@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include sanad_chatgpt *.css
+recursive-include sanad_chatgpt *.csv
+recursive-include sanad_chatgpt *.html
+recursive-include sanad_chatgpt *.ico
+recursive-include sanad_chatgpt *.js
+recursive-include sanad_chatgpt *.json
+recursive-include sanad_chatgpt *.md
+recursive-include sanad_chatgpt *.png
+recursive-include sanad_chatgpt *.py
+recursive-include sanad_chatgpt *.svg
+recursive-include sanad_chatgpt *.txt
+recursive-exclude sanad_chatgpt *.pyc
