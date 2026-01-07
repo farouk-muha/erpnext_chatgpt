@@ -11,7 +11,7 @@ setup(
 	version=version,
 	description="ERPNext ChatGPT API",
 	author="Farouk Muharram",
-	author_email="farouk1dev@gmail.com",
+	author_email="faroukm.dev@gmail.com",
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,

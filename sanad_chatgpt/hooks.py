@@ -4,7 +4,7 @@ app_name = "sanad_chatgpt"
 app_title = "SANAD ChatGPT"
 app_publisher = "Farouk Muharram"
 app_description = "ERPNext ChatGPT API"
-app_email = "farouk1dev@gmail.com"
+app_email = "faroukm.dev@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>
