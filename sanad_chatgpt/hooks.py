@@ -106,7 +106,6 @@ app_license = "MIT"
 # 	"*": {
 # 		"on_update": "method",
 # 		"on_cancel": "method",
-# 		"on_trash": "method"
 #	}
 # }
 
