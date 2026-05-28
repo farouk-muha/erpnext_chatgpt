@@ -1,0 +1,68 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2026-05-28 12:54:46.300423",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "api_key",
+  "question",
+  "section_break_gdu4",
+  "send",
+  "section_break_umnj",
+  "answer"
+ ],
+ "fields": [
+  {
+   "fieldname": "api_key",
+   "fieldtype": "Data",
+   "label": "API Key"
+  },
+  {
+   "fieldname": "question",
+   "fieldtype": "Small Text",
+   "label": "Question"
+  },
+  {
+   "fieldname": "section_break_gdu4",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "send",
+   "fieldtype": "Button",
+   "label": "Send"
+  },
+  {
+   "fieldname": "section_break_umnj",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "answer",
+   "fieldtype": "Long Text",
+   "label": "Answer"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2026-05-28 12:55:47.396393",
+ "modified_by": "Administrator",
+ "module": "Frappe ChatGPT Sample",
+ "name": "ChatGPT Assistant",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
